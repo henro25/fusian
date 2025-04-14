@@ -1,0 +1,20 @@
+:root {
+  --soft-peach: #ebdee0;
+  --night-shadz: #a43c4c;
+  --puce: #c7838b;
+  --careys-pink: #d39ca4;
+  --contessa: #bc6872;
+  --eunry: #d4a4a4;
+  --matrix: #b35d66;
+  --cadillac: #b35464;
+  --turkish-rose: #b46874;
+  
+  /* Derived colors for UI */
+  --primary: var(--night-shadz);
+  --primary-light: var(--puce);
+  --secondary: var(--contessa);
+  --background: var(--soft-peach);
+  --text: #2c3e50;
+  --text-light: #666;
+  --white: #ffffff;
+} 
